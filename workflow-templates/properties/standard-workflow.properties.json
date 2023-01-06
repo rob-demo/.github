@@ -1,5 +1,5 @@
 {
-    "name": "Custom greetings from .github repo",
+    "name": "Custom greetings from .github repo NAME FROM PROPERTIES FILE",
     "description": "Greets users who are first time contributors to the repo",
     "iconName": "octicon smiley",
     "categories": ["Automation", "SDLC"]
