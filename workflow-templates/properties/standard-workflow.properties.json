@@ -1,6 +1,6 @@
 {
     "name": "Custom greetings from .github repo NAME FROM PROPERTIES FILE",
     "description": "Greets users who are first time contributors to the repo",
-    "iconName": "youtube",
+    "iconName": "octicon square",
     "categories": ["Blabla"]
 }
