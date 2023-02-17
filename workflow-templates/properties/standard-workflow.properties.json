@@ -1,0 +1,6 @@
+{
+    "name": "Custom greetings from .github repo",
+    "description": "Greets users who are first time contributors to the repo",
+    "iconName": "octicon smiley",
+    "categories": ["Automation", "SDLC"]
+}
